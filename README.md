@@ -1,5 +1,6 @@
 # MAQUINANORMA\
 EXERCICIOS DE MAQUINA NORMA IMPLEMENTADOS EM PYTHON
+
 Exemplo: para representar -3 nos registradores da Máquina NORMA utilizamos dois registradores A, A1 para o sinal e A2 para a magnitude do número
 
 A1 = 1
